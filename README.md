@@ -53,6 +53,8 @@
 
 
 ## Output:
+![image](https://github.com/d-kavinraja/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119875375/703d6f1a-6de3-4936-91e7-054e136a0026)
+
 
 
 ### Name:Kavinraja D
